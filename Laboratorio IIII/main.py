@@ -29,7 +29,7 @@ def get_producto(producto_id: int):
     raise HTTPException(status_code=404, detail=f"Producto {producto_id} no encontrado")
 
 @app.post("/productos/", response_model=Producto)
-def crear_poducto(producto: Producto):
+def crear_producto(producto: Producto):
     for producto_existe in productos:
         if producto_existe.id == producto.id:
             raise HTTPException(status_code=400, detail=f"Producto {producto.id} ya existe")
