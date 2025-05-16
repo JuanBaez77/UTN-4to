@@ -5,41 +5,39 @@ Ejemplo práctico - Redes sociales y datos personales
 > Florencia es estudiante y tiene una cuenta de Instagram donde comparte fotos de su vida cotidiana. Un día, se da cuenta de que:
 > 
 > - Una empresa de ropa usó una de sus fotos para una publicidad, sin pedirle permiso.
->   
+> 
 > - La imagen sigue publicada en el perfil de la empresa, con miles de likes.
->   
+> 
 > - Ella no firmó ningún contrato ni cedió derechos.
->   
 
 ---
 
-### **•¿Qué derechos tiene ella según la Ley 25.326?**
+### **¿Qué derechos tiene ella según la Ley 25.326?**
 
-**Según la Ley 25.326,** ella tiene el derecho a la protección de sus datos personales frente al uso indebido por parte de terceros. En este caso, dicho derecho no fue respetado, ya que se utilizaron sus datos personales específicamente, su imagen publicada en redes sociales con fines publicitarios sin su consentimiento. La ley establece que la imagen, al igual que otros datos personales, no puede ser utilizada en un tratamiento automatizado u organizado (como una campaña de publicidad) sin la autorización expresa de la persona titular de esos datos.
+**Según la Ley 25.326,** Florencia tiene el derecho a la protección de sus datos personales frente a su uso por terceros. En este caso, este derecho no fue respetado, ya que se utilizaron sus datos personales (su imagen) con fines publicitarios. La ley establece que la imagen no puede ser utilizada en un tratamiento automatizado u organizado (como una campaña de publicidad) sin la autorización de la persona titular de esos datos.
 
 ---
 
-### **•¿Qué puede reclamar? ¿Qué caminos legales tiene?**
+### **¿Qué puede reclamar? ¿Qué caminos legales tiene?**
 
-Florencia puede reclamar por la **utilización no autorizada de su imagen**, lo cual vulnera tanto su **derecho a la imagen** como su **derecho a la protección de los datos personales**, según lo establecido la **Ley 25.326**
+Florencia puede reclamar por su **derecho a la protección de los datos personales**, según lo establecido la **Ley 25.326.**
 
 **Los caminos legales que tiene son:**
 
 - **Intimación extrajudicial:** 
-  Puede enviar una **carta documento** o realizar una **notificación legal** a la empresa exigiendo el retiro inmediato de su imagen, el cese del uso indebido y eventualmente una compensación económica por el daño causado.
-  
+  Puede enviar una **carta documento** o realizar una **notificación legal** a la persona que uso su imagen, exigiendo su retiro.
+
 - **Denuncia ante la AAIP:** 
   La AAIP es el organismo que controla el cumplimiento de la Ley 25.326. Florencia puede hacer una denuncia por uso indebido de datos personales.
-  
-- **Acción judicial por daños y perjuicio:
+
+- **Acción judicial:
   Puede iniciar una demanda civil** por el uso no autorizado de su imagen y reclamar una indemnización por el daño moral y comercial sufrido. Esto incluye:
   
   - Lucro cesante (si ella podría haber cobrado por ese uso de imagen).
-    
+  
   - Daño moral (por la exposición no consentida).
-    
+  
   - Daño a la privacidad.
-    
 
 ---
 
@@ -47,32 +45,19 @@ Florencia puede reclamar por la **utilización no autorizada de su imagen**, lo 
 
 ### ¿Cómo justifican el uso?
 
-La empresa podria argumentar que la imagen estaba en una red social publica
+La empresa podria argumentar que la imagen estaba en una red social publica.
 
 ---
 
 ### ¿Cometieron una infracción?
 
-- **Violación a la Ley 25.326 (Protección de Datos Personales):** 
-  Usar una imagen sin consentimiento también constituye un tratamiento no autorizado de datos personales.
-  
-- **Posible competencia desleal o publicidad engañosa (si induce a pensar que Florencia avala el producto):** 
-  Podría considerarse una forma de **publicidad encubierta**, lo que también está regulado por normas de lealtad comercial y defensa del consumidor.
-  
+Violación a la Ley 25.326 por usar una imagen sin consentimiento y tambien cometieron una infraccion sobre publicidad engañosa, porque publicitan una marca de ropa, que Florencia puede no avalar y no usar.
 
 ---
 
 ### ¿Qué deberían haber hecho antes de publicar?
 
-- **Solicitar el consentimiento expreso de Florencia:** 
-  Ya sea a través de un contrato o una autorización firmada.
-  
-- **Informarle el fin con el que usarían su imagen:** 
-  El consentimiento debe ser informado, es decir, la persona tiene que saber **cómo, dónde y para qué** se usará su imagen.
-  
-- **Ofrecer una compensación económica (si corresponde):** 
-  Si el uso es con fines publicitarios, lo justo es pagar por ello o acordar los términos.
-  
+Antes de publicar las fotos deberian pedir el concentimiento de Florencia, ella podria acceder atravez de un contrato, ademas ser claros con la finalidad que le daran a su imagen, donde la publicaran y paraque. si corresponde ofrecer una compensacion economica.
 
 ---
 
@@ -80,21 +65,16 @@ La empresa podria argumentar que la imagen estaba en una red social publica
 
 ### ¿Tienen responsabilidad?
 
-No son responsables directos, pero **sí pueden tener responsabilidad si no actúan** tras una denuncia de uso indebido de imagen.
+No son responsables directos, pero **sí pueden tener responsabilidad si no actúan** tras una denuncia de Florencia por el  uso indebido de su imagen.
 
 ---
 
 ### ¿Qué medidas deberían tener para evitar esto?
 
-- Canales rápidos para denuncias.
-  
-- Moderación efectiva.
-  
-- Reglas claras para el uso comercial de contenido.
-  
+Dar a conocer las reglas claras para el uso de imagenes con un fin comercial, tener un soporte activo o canales rapidos para realizar la denuncia.
 
 ---
 
 ### ¿Cumplen con la ley argentina?
 
-**Parcialmente.** Si responden bien ante una denuncia, cumplen. Si no actúan, **pueden estar incumpliendo** la Ley 25.326 y el derecho a la imagen.
+Parcialmente, ya que si responden ante la denuncia sancionando a la marca de ropa, cumplen, pero si no toman la denuncia de Florencia estarian incumpliendo la ley de proteccion de datos personales
